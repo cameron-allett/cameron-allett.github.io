@@ -16,7 +16,8 @@ quotes = {
     {text: "Logic takes care of itself; all we have to do is to look and see how it does it.", author: "L. Wittgenstein"},
     {text: "I don't believe in empirical science. I only believe in a priori truth.", author: "K. Gödel"},
     {text: "Never regard your study as a duty, but as the enviable opportunity to learn the liberating beauty of the intellect for your own personal joy and for the profit of the community to which your later work will belong.", author: "A. Einstein"},
-    {text: "Education is the kindling of a flame, not the filling of a vessel.", author: "Socrates"}
+    {text: "Education is the kindling of a flame, not the filling of a vessel.", author: "Socrates"},
+    {text: "We do not describe the world we see, we see the world we can describe.", author: "R. Descartes"}
   ]
 }
 
