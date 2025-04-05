@@ -18,7 +18,8 @@ quotes = {
     {text: "Never regard your study as a duty, but as the enviable opportunity to learn the liberating beauty of the intellect for your own personal joy and for the profit of the community to which your later work will belong.", author: "A. Einstein"},
     {text: "Education is the kindling of a flame, not the filling of a vessel.", author: "Socrates"},
     {text: "We do not describe the world we see, we see the world we can describe.", author: "R. Descartes"},
-    {text: "The eternal mystery of the world is its comprehensibility.", author: "A. Einstein"}
+    {text: "The eternal mystery of the world is its comprehensibility.", author: "A. Einstein"},
+    {text: "Mathematics is an experimental science, and definitions do not come first, but later on.", author: "O. Heaviside"}
   ]
 }
 
