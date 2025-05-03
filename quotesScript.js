@@ -20,7 +20,8 @@ quotes = {
     {text: "We do not describe the world we see, we see the world we can describe.", author: "R. Descartes"},
     {text: "The eternal mystery of the world is its comprehensibility.", author: "A. Einstein"},
     {text: "Mathematics is an experimental science, and definitions do not come first, but later on.", author: "O. Heaviside"},
-    {text: "I am among those who think that science has great beauty. A scientist in his laboratory is not only a technician: he is also a child placed before natural phenomena which impress him like a fairy tale. We should not allow it to be believed that all scientific progress can be reduced to mechanisms, machines, gearings, even though such machinery also has its beauty.", author: "M. Curie"}
+    {text: "I am among those who think that science has great beauty. A scientist in his laboratory is not only a technician: he is also a child placed before natural phenomena which impress him like a fairy tale. We should not allow it to be believed that all scientific progress can be reduced to mechanisms, machines, gearings, even though such machinery also has its beauty.", author: "M. Curie"},
+    {text: "A good teacher does not teach facts, he or she teaches enthusiasm, openmindedness and values. Young people need encouragement. Left to themselves, they may not know how to decide what is worthwhile. They may drop an original idea because they think someone else must have thought of it already. Students need to be taught to believe in themselves and not to give up.", author: "G. Rota"}
   ]
 }
 
