@@ -2,12 +2,10 @@ quotes = {
   writing: [
     {text: "Thanks to an eternal and providential decree, everything produced by a man in every sphere, when he is ruled by the spirit of justice and truth, is endowed with the radiance of beauty.", author: "S. Weil"},
     {text: "You must write for yourself, above all. That is your only hope of creating something beautiful.", author: "G. Flaubert"},
-    {text: "Beauty is an experience, nothing else. It is not a fixed pattern or an arrangement of features. It is something felt, a glow or a communicated sense of fineness.", author: "D. H. Lawrence"},
-    {text: "When we come upon beautiful things they lift us, letting the ground rotate beneath us several inches so that when we land, we find we are standing in a different relation to the world than we were a moment before.", author: "E. Scarry"}
+    {text: "Beauty is an experience, nothing else. It is not a fixed pattern or an arrangement of features. It is something felt, a glow or a communicated sense of fineness.", author: "D. H. Lawrence"}
   ],
 
   science: [
-    {text: "Every time that a human being succeeds in making an effort of attention with the sole idea of increasing his grasp of the truth, he acquires a greater aptitude for grasping it, even if his effort produces no visible fruit.", author: "S. Weil"},
     {text: "The true definition of science is this: the study of the beauty of the world.", author: "S. Weil"},
     {text: "The task is, not so much to see what no one has yet seen; but to think what nobody has yet thought, about that which everybody sees.", author: "A. Schopenhauer"},
     {text: "What we observe is not nature itself, but nature exposed to our method of questioning.", author: "W. Heisenberg"},
